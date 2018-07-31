@@ -4,6 +4,9 @@
 ### - LeisurePass！ECサイトURL（公開時間：平日10時 ～ 18時まで）  
 ##  http://www.internousdev.com/leisurepass  
   
+  
+##  https://github.com/negishiayaka/ECsite  
+自分担当のコードは、上記のURLにあります。
 ■ 担当 ■   
 ・宛先情報登録
 ・宛先情報追加 
